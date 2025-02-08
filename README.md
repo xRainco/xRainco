@@ -1,6 +1,6 @@
 ## Hi there is xRainco !✨
 🧑🏻‍💻 菜鸟前端开发一枚<br>
-🌱 有在努力学习技术ing...<br>
+🌱 有在努力学习技术ing<br>
 😄 欢迎一起交流呀~<br>
 <img src="bug.jpg" style="witdh: 360px;height: 360px;margin: 0 auto"></img>
 
